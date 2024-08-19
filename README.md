@@ -1,4 +1,6 @@
 # DataStore-Preference
+This code provides an implementation of a preference storage system using DataStore in Kotlin for Android. The Preferences class allows for secure and efficient storage and retrieval of user settings or application data, replacing the older SharedPreferences.
+
 Key Features:
 Preference Storage: The Preferences class includes set and get functions to store and retrieve data of various primitive types (Boolean, String, Int, Long, Float, and Double). Each data type has its own dedicated storage and retrieval function.
 
